@@ -5,7 +5,7 @@
 **Today's Progress**: Started with freecodecamp first 10 task.
 
 
-### Day 0: Sunday, October 4
+### Day 1: Sunday, October 4
 
 **Today's Progress**: Finished 11 to 23 task on freeCodeCamp
 
